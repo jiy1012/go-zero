@@ -1,4 +1,4 @@
-module github.com/sjclijie/go-zero
+module github.com/jiy1012/go-zero
 
 go 1.14
 
